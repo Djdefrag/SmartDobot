@@ -3,11 +3,11 @@ Automatic Dobot Magician arm using Computer Vision and Machine Learning algorith
 
 SmartDobot is an algorithm to automate a Dobot Magician equiped with a camera, to grip objects; it uses Computer Vision and Machine Learning algorithms to achieve this goal. It has been realized using:
 
->>> HARDWARE
-Dobot Magician with grip
-Logitech fixed focus camera
+---HARDWARE
+Dobot Magician with grip;
+Logitech fixed focus camera;
 
->>> SOFTWARE
+---SOFTWARE
 Thonny IDE [v. 3.2.7] & Python [v. 3.7.7]
 Sklearn library for ML algorithms
 OpenCV library for computer vision utilities
